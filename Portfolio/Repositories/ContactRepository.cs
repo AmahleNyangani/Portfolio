@@ -15,7 +15,7 @@ namespace Portfolio.Repositories
 
                 new Contact(1, "Email", "amahlenyangani@gmail.com"),
                 new Contact(2, "Phonenumber", "+27788384128"),
-                new Contact(3, "Git", "https://github.com/AmahleNyangani"),
+                new Contact(3, "Git", "https://github.com/AmahleNyangani/Portfolio.git"),
                 new Contact(4, "LinkedIn", "https://www.linkedin.com/in/amahle-nyangani-8b4240206/"),
 
             };
